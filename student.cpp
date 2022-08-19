@@ -89,11 +89,11 @@ void Student::setDegree(DegreeProgram degreeProgram) {
 // Print header function
 void Student::printHeader(){
 	std::cout << "ID" << "\t"
-						<< "FIRST" << "\t"
-						<< "LAST" << "\t"
-						<< "AGE" << "\t"
-						<< "DAYSINCOURSE" << "\t"
-						<< "DEGREE TYPE" << std::endl;
+		<< "FIRST" << "\t"
+		<< "LAST" << "\t"
+		<< "AGE" << "\t"
+		<< "DAYSINCOURSE" << "\t"
+		<< "DEGREE TYPE" << std::endl;
 }
 
 // Print student information function
