@@ -41,8 +41,8 @@ public:
 		std::string 	getFirstName();
 		std::string 	getLastName();
 		std::string 	getEmailAddress();
-		int						getAge();
-		int						*getDaysToCompleteCourse();
+		int		getAge();
+		int		*getDaysToCompleteCourse();
 		DegreeProgram 	getDegreeProgram();
 
 		/* REQUIREMENT D2B. Create a mutator (setter) for each instance variable from D1.
@@ -70,8 +70,8 @@ public:
 		 * using accessor and mutator functions*/
 private:
 		std::string 		studentID, firstName, lastName, emailAddress;
-		int							age;
-		int							daysToCompleteCourse[dayArraySize];
+		int			age;
+		int			daysToCompleteCourse[dayArraySize];
 		DegreeProgram		degreeProgram;
 
 
