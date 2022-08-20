@@ -12,8 +12,6 @@
 enum DegreeProgram {SECURITY, NETWORK, SOFTWARE};
 
 // Parallel Strings
-static const std::string degreeProgramStrings[] = {
-	"SECURITY", "NETWORK", "SOFTWARE"
-};
+static const std::string degreeProgramStrings[] = {"SECURITY", "NETWORK", "SOFTWARE"};
 
 #endif //CLASS_ROSTER_FINAL_DEGREE_H
