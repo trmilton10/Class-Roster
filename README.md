@@ -1,4 +1,4 @@
-This is a project I created for my Scripting and Programming class at Western Governor's University, programmed in 
+This is a project I created for my Scripting and Programming class at Western Governor's University, programmed in C++
 
 Scenario:
 
